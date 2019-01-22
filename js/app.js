@@ -1,3 +1,4 @@
+// The starter code is made possible by codecademy. Added to the object.
 const app = new Vue({
     el: '#app',
     data: {
